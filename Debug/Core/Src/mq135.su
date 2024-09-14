@@ -1,0 +1,4 @@
+../Core/Src/mq135.c:21:6:MQ135_Init	16	static
+../Core/Src/mq135.c:25:7:calculateResistance	32	static
+../Core/Src/mq135.c:30:7:calculatePPM	40	static
+../Core/Src/mq135.c:34:7:MQ135_ReadPPM	48	static

@@ -1,0 +1,2 @@
+../Core/Src/ky037.c:10:6:KY037_Init	16	static
+../Core/Src/ky037.c:14:7:KY037_ReadDecibels	24	static
